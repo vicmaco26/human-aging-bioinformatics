@@ -44,3 +44,4 @@ Example gene: TERT.
 
 These three mechanisms provide an initial framework for exploring the molecular biology of human aging.
 
+This section is being updated through a collaborative Git branch.
