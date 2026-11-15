@@ -37,6 +37,7 @@ The project will initially explore three mechanisms:
 ## Repository Structure
 
 - `data/`: Biological data collected from public databases.
+- `notebooks/`: Interactive computational notebooks for data exploration and analysis.
 - `results/`: Results obtained during the project.
 - `documentation/`: Documentation of biological mechanisms.
 - `references/`: Scientific references and sources.
