@@ -1,26 +1,13 @@
-# References and Data Sources
+# References
 
+The following databases will be used to collect information about genes and their relationship with human aging.
 
+## Databases
 
-This project uses public scientific databases as information sources.
+- [NCBI Gene](https://www.ncbi.nlm.nih.gov/gene/): gene information, functions and references.
+- [UniProt](https://www.uniprot.org/): protein information and biological functions.
+- [GenAge](https://genomics.senescence.info/genes/): genes associated with aging and longevity.
 
+## Scientific Literature
 
-
-## Main Sources
-
-
-
-- NCBI Gene: https://www.ncbi.nlm.nih.gov/gene/
-
-- UniProt: https://www.uniprot.org/
-
-- GenAge: https://genomics.senescence.info/genes/
-
-
-
-## Documentation
-
-
-
-Specific references and consulted resources will be added as the project progresses.
-
+Scientific articles consulted during the project will be listed here, including their authors, publication year and DOI when available.
